@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keryx Bridge</string>
+    <string name="notification_listener_label">Keryx Bridge</string>
+    <string name="service_running">Active — tap to open</string>
+    <string name="service_channel_name">Keryx Bridge Service</string>
+    <string name="service_channel_desc">Keeps Keryx Bridge running in the background</string>
+</resources>
